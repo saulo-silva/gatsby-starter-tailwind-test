@@ -1,10 +1,10 @@
 .section {
-    @apply p-4 bg-blue-400 w-full border-l-8 border-blue-800 mb-4 rounded-sm;
+  @apply p-4 bg-blue-400 w-full border-l-8 border-blue-800 mb-4 rounded-sm;
 }
 .section h1 {
-    @apply text-2xl text-gray-700 mb-4;
+  @apply text-2xl text-gray-700 mb-4;
 }
 
 .section p {
-    @apply leading-tight mb-4 text-gray-100;
+  @apply leading-tight mb-4 text-gray-100;
 }
