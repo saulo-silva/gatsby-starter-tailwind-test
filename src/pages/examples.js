@@ -19,14 +19,14 @@ function ExamplesPage() {
         <div className="w-full p-2">
           <h3 className="mb-4">Qual o seu nome?</h3>
           <input
-            className="w-full bg-transparent text-white placeholder-gray-700 rounded-none form-input"
+            className="w-full bg-transparent text-white placeholder-gray-100 rounded-none form-input"
             id="first-name"
             placeholder="Digite seu nome"
             type="text"
           />
         </div>
         <div className="w-full text-right">
-          <button className="px-4 py-2 text-sm font-bold text-white bg-gray-700 border-b-4 border-gray-800 rounded hover:border-gray-700 hover:bg-gray-600">
+          <button className="bg-orange-500 hover:bg-orange-600 hover:text-white font-bold py-2 px-4 rounded-full">
             Avançar
           </button>
         </div>
