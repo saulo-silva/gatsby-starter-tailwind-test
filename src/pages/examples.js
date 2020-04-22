@@ -14,16 +14,7 @@ function ExamplesPage() {
 
 
       <SectionComponent title={"Teste"}>
-        <p>sss sgfdss</p>
-        <p>sss sgfdss</p>
-        <p>sss sgfdss</p>
-        <p>sss sgfdss</p>
-        <p>sss sgfdss</p>
-        <p>sss sgfdss</p>
-        <p>sss sgfdss</p>
-        <p>sss sgfdss</p>
-        <p>sss sgfdss</p>
-        <p>sss sgfdss</p>
+        <p>sss sgfdss asdf sadf ads fasdf ads fasdf asd fa</p>
       </SectionComponent>
 
       <div className="flex flex-wrap">

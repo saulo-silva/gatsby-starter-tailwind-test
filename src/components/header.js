@@ -58,6 +58,10 @@ function Header() {
               title: `About`,
             },
             {
+              route: `/examples`,
+              title: `Examples`,
+            },
+            {
               route: `/contact`,
               title: `Contact`,
             },
