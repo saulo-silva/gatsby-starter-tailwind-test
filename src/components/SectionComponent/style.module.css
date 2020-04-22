@@ -1,0 +1,10 @@
+.section {
+    @apply p-8 bg-blue-400 w-1/2;
+}
+.section h1 {
+    @apply text-2xl text-gray-700 mb-8;
+}
+
+.section p {
+    @apply leading-tight mb-4 text-white;
+}
