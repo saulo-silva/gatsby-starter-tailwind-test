@@ -15,6 +15,10 @@ function ExamplesPage() {
         <p>sss sgfdss asdf sadf ads fasdf ads fasdf asd fa</p>
       </SectionComponent>
 
+      <SectionComponent title={"Dois"}>
+        <p>Teste de conteúdo</p>
+      </SectionComponent>
+
       <div className="flex content-between pt-16 pb-4 flex-wrap sm:h-64 min-h-full bg-blue-500 m-auto max-w-screen-md my-8 px-4 text-white border-l-8 border-blue-800 rounded-sm">
         <div className="w-full p-2">
           <h3 className="mb-4">Qual o seu nome?</h3>
