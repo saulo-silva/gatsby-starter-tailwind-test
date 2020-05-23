@@ -19,7 +19,7 @@ function ExamplesPage() {
         <div className="w-full p-2">
           <h3 className="mb-4">Qual o seu nome?</h3>
           <input
-            className="w-full bg-transparent text-white placeholder-gray-100 rounded-none form-input"
+            className="w-full bg-white text-gray-900 placeholder-gray-600 rounded-none form-input"
             id="first-name"
             placeholder="Digite seu nome"
             type="text"
